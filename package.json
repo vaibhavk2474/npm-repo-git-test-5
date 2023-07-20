@@ -1,0 +1,23 @@
+{
+  "name": "my-client-repo-bundler-5",
+  "version": "1.0.0",
+  "description": "bundler files hosting on npm",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavk2474/npm-repo-git-test-5.git"
+  },
+  "keywords": [
+    "client",
+    "repo"
+  ],
+  "author": "vk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavk2474/npm-repo-git-test-5/issues"
+  },
+  "homepage": "https://github.com/vaibhavk2474/npm-repo-git-test-5#readme"
+}
